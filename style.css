@@ -1,0 +1,10 @@
+.text-primary{
+    color: #0f0f0f!important;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.height{
+    height: 860px;
+    background-color: grey;
+}
