@@ -1,10 +1,60 @@
 .text-primary{
     color: #0f0f0f!important;
     font-weight: bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Playfair Display', serif;   
 }
 
+.text-primary-a{
+    color: #f7f1f1!important;
+    font-family: 'Playfair Display', serif;   
+}
+}
+
+.text-primary-b{
+    color: rgb(143, 143, 143);
+    font-family: 'Playfair Display', serif;   
+}
+}
+
+
 .height{
-    height: 860px;
+    height: 200px;
+}
+
+
+.height-a{
+    height: 870px;
     background-color: grey;
+}
+
+.height-b{
+    height: 620px;
+}
+.height-c{
+    height: 480px;
+    background-color: black;
+}
+
+
+
+
+figcaption {
+    position: absolute ; 
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7)  ;
+    left: 5px;
+    right: 200px;
+    bottom: 5px;
+    color: white;
+    font-size: 12px;
+    
+
+    
+}
+figure {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 1.5rem;
 }
