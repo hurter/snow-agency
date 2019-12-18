@@ -37,13 +37,28 @@
 
 .height-b{
     height: 620px;
+   
+
+
 }
 .height-c{
     height: 410px;
     background-color: black;
 }
+.height-d{
+    font-family:'Playfair Display', serif ;
+    font-weight: bold;
+}
+.height-e{
+    height: 500px;
+    background-color: black;
+}
 
 
+p span{
+    font-family:'Playfair Display', serif ;
+    font-weight: bold;
+}
 
 
 figcaption {
@@ -66,14 +81,18 @@ figure {
     margin: 0;
     margin-bottom: 1.5rem;
 }
-.footer{  
+.footer-a{  
     height: 70px; 
-    background-color: black;  
+     
 }
 .line{
     margin-top: 1px; 
+
+
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
 }
 
-.ff{
-    margin: 3px;
-}
