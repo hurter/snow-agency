@@ -8,13 +8,21 @@
     color: #f7f1f1!important;
     font-family: 'Playfair Display', serif;   
 }
-}
+
 
 .text-primary-b{
     color: rgb(143, 143, 143);
     font-family: 'Playfair Display', serif;   
 }
+.btn-primary{
+    color: #fff;
+    background-color: #050607;
+    border-color: #050607;
 }
+.txt-color{
+    color:#050607 ;
+}
+
 
 
 .height{
@@ -31,7 +39,7 @@
     height: 620px;
 }
 .height-c{
-    height: 480px;
+    height: 410px;
     background-color: black;
 }
 
@@ -57,4 +65,15 @@ figure {
     padding: 0;
     margin: 0;
     margin-bottom: 1.5rem;
+}
+.footer{  
+    height: 70px; 
+    background-color: black;  
+}
+.line{
+    margin-top: 1px; 
+}
+
+.ff{
+    margin: 3px;
 }
